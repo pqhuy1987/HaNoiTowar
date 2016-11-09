@@ -393,7 +393,7 @@
 				INFOPLIST_FILE = Hanoi/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = mattirv.Hanoi;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.hanoitower.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -407,7 +407,7 @@
 				INFOPLIST_FILE = Hanoi/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = mattirv.Hanoi;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.hanoitower.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
